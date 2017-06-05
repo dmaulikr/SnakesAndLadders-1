@@ -26,7 +26,7 @@ int main(int argc, const char * argv[])
             if([inputString isEqualToString:@"roll"] || [inputString isEqualToString:@"r"])
             {
                 [player roll];
-                return 0;
+                
             }
         }
         
